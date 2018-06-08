@@ -14,6 +14,6 @@ class Anagram
         
       end
     end
-    return []]
+    return []
   end
 end
