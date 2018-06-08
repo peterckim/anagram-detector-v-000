@@ -14,6 +14,6 @@ class Anagram
         
       end
     end
-    return false
+    return []]
   end
 end
